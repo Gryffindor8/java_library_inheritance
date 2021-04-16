@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=text2
+comment1.target=Book(java.lang.String)
+comment10.params=
+comment10.target=java.util.ArrayList\ getnoOfpage()
+comment11.params=
+comment11.target=java.util.ArrayList\ getPublisher()
+comment12.params=
+comment12.target=void\ view()
+comment2.params=
+comment2.target=void\ read_book()
+comment3.params=
+comment3.target=java.util.ArrayList\ gettitle()
+comment4.params=
+comment4.target=java.util.ArrayList\ getitemCode()
+comment5.params=
+comment5.target=java.util.ArrayList\ getcost()
+comment6.params=
+comment6.target=java.util.ArrayList\ gettimesBorrowed()
+comment7.params=
+comment7.target=java.util.ArrayList\ getonLoan()
+comment8.params=
+comment8.target=java.util.ArrayList\ getAuthor()
+comment9.params=
+comment9.target=java.util.ArrayList\ getIsbn()
+numComments=13

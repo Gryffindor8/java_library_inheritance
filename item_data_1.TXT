@@ -1,0 +1,16 @@
+// this is a comment, any lines that start with //
+// (and blank lines) should be ignored
+
+
+// data is title, itemCod;  cost, timesBorrowed, onLoan
+Objects First with Java, LM002411,3989,781,true
+Compilers: Principles Techniques and Tools, LM002711,599,0,FALSE
+C# How to Program, LM002876,4599,45,TRUE
+Unix Made Easy: The Basics and Beyond (Made Easy), LM002468,6395,0,TRUE
+Galerkin Finite Element Methods for Parabolic Problem LM002153,4554,0,FALSE
+
+//[periodical data]
+data is publicationDate, noOfPages, publisher, title, itemCode, cost, timesBorrowed, onLoan
+25-03-20,70, News International, The Times, LM005447,80,0,FALSE
+26-03-20,70, News International, The Times, LM005002,80,0,false
+26-04-20, 70, Associated Newspapers, Daily Mail, LM005177,40,0,false
